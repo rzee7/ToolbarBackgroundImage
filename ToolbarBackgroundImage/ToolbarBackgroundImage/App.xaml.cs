@@ -12,7 +12,7 @@ namespace ToolbarBackgroundImage
         {
             InitializeComponent();
 
-            NavigationService.NavigateAsync("NavigationPage/MainPage?title=Hello%20from%20Xamarin.Forms");
+            NavigationService.NavigateAsync("NavigationPage/MainPage?title=Navbar%20Background%20Image");
         }
 
         protected override void RegisterTypes()
